@@ -1,0 +1,13 @@
+C:\Users\s_mar\Melissa\College_Admission\bin\Debug\netcoreapp3.1\College_Admission.exe
+C:\Users\s_mar\Melissa\College_Admission\bin\Debug\netcoreapp3.1\College_Admission.deps.json
+C:\Users\s_mar\Melissa\College_Admission\bin\Debug\netcoreapp3.1\College_Admission.runtimeconfig.json
+C:\Users\s_mar\Melissa\College_Admission\bin\Debug\netcoreapp3.1\College_Admission.runtimeconfig.dev.json
+C:\Users\s_mar\Melissa\College_Admission\bin\Debug\netcoreapp3.1\College_Admission.dll
+C:\Users\s_mar\Melissa\College_Admission\bin\Debug\netcoreapp3.1\College_Admission.pdb
+C:\Users\s_mar\Melissa\College_Admission\obj\Debug\netcoreapp3.1\College_Admission.csprojAssemblyReference.cache
+C:\Users\s_mar\Melissa\College_Admission\obj\Debug\netcoreapp3.1\College_Admission.AssemblyInfoInputs.cache
+C:\Users\s_mar\Melissa\College_Admission\obj\Debug\netcoreapp3.1\College_Admission.AssemblyInfo.cs
+C:\Users\s_mar\Melissa\College_Admission\obj\Debug\netcoreapp3.1\College_Admission.csproj.CoreCompileInputs.cache
+C:\Users\s_mar\Melissa\College_Admission\obj\Debug\netcoreapp3.1\College_Admission.dll
+C:\Users\s_mar\Melissa\College_Admission\obj\Debug\netcoreapp3.1\College_Admission.pdb
+C:\Users\s_mar\Melissa\College_Admission\obj\Debug\netcoreapp3.1\College_Admission.genruntimeconfig.cache

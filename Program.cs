@@ -7,10 +7,22 @@ namespace College_Admission
         static void Main(string[] args)
         {
             Console.WriteLine("Please enter your high school grade point average");
-            float userGradePoint = float.Parse(Console.ReadLine());
+            var userGradePoint = float.Parse(Console.ReadLine());
+            
 
             Console.WriteLine("Now, please enter your admissions test score");
-            float testScore = float.Parse(Console.ReadLine());
+            var testScore = float.Parse(Console.ReadLine());
+
+            if (userGradePoint >= 3.0 && testScore >= 60) {
+                Console.WriteLine("Congratulations! You are accepted!");
+                
+            }else if (userGradePoint < 3.0 && testScore >= 80){
+                Console.WriteLine("Congratulations! You are accepted!");
+            }
+            else {
+                Console.WriteLine("We are sorry, you don't meet the requirements. Rejected");
+            }
+            
         }
     }
 }
